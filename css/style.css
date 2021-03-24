@@ -14,6 +14,14 @@ body {
   color: #4e4e4e;
 }
 
+html,body{
+  display: block;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+  width: 100%
+}
+
 h1,
 h2,
 h3,
